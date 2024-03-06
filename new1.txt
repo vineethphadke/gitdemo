@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 9204-E6C6
+
+ Directory of C:\Users\PhadkeV\Desktop\MyFolder
+
+06-03-2024  14:37    <DIR>          .
+06-03-2024  12:36    <DIR>          ..
+06-03-2024  14:26                57 Login - PhadkeV.txt
+06-03-2024  12:53             3,238 new.html
+06-03-2024  14:37                 0 new1.txt
+               3 File(s)          3,295 bytes
+               2 Dir(s)  155,024,388,096 bytes free
